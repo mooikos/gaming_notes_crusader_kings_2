@@ -1,0 +1,131 @@
+# spawn commanders
+
+general
+- female if religion_matriarchal
+- not allowed traits
+  - dull / imbecile / slow / weak
+  - administrator / architect / duelist / gamer / gardener
+  - hedonist / hunter / impaler / mystic / schemer
+  - scholar / seducer / seductress / socializer / strategist / theologian
+- modification
+  - 30% nothing
+  - 15% +2 martial
+  - 10% (each) duelist / hunter / robust
+  - 5% +4 martial
+  - 5% (each) one_eyed / shrewd
+  - 3% giant
+
+spawn_good_commander_effect
+- stats
+  - 8 martial
+  - 2 others
+
+spawn_great_commander_effect
+- stats
+  - 9 martial
+  - 3 others
+- not allowed traits (extra)
+  - clubfooted / craven / dwarf / giant / hunchback
+- modification
+  - 5% misguided_warrior
+  - 10% tough_soldier
+  - 20% skilled_tactician
+  - 30% brilliant_strategist
+- modification
+  - 50% nothing
+  - 10% (each)
+    - aggressive_leader / defensive_leader / experimenter / flanker / heavy_infantry_leader
+    - inspiring_leader / narrow_flank_leader / organizer / siege_leader / trickster
+
+spawn_fantastic_commander_effect
+- stats
+  - 12 martial
+  - 4 others
+- not allowed traits (extra)
+  - paranoid
+- trait
+  - brilliant_strategist
+modification
+  - 20% robust
+  - 10% strong
+  - 5% +1 health
+- modification
+  - 10% (each)
+    - aggressive_leader / defensive_leader / experimenter / flanker / heavy_infantry_leader
+    - inspiring_leader / narrow_flank_leader / organizer / siege_leader / trickster
+- modification
+  - 20% (each)
+    - nick_of_a_thousand_faces
+      - +2 martial
+      - +12 intrigue
+      - scarred + genius
+      - disfigured
+    - nick_the_bear
+      - +1 martial
+      - genius
+      - clubfooted
+    - nick_the_blind
+      - +4 martial
+      - genius + strategist
+      - blinded
+    - nick_the_boar
+      - +1 martial
+      - duelist + strong
+      - ugly
+    - nick_the_bold
+      - +3 martial
+      - brave + duelist
+    - nick_the_brave
+      - +2 martial
+      - brave + shrewd
+    - nick_the_cyclops
+      - +1 martial
+      - giant + robust + strategist
+      - one_eyed
+    - nick_the_defender
+      - +2 martial
+      - patient + unyielding_leader
+      - remove wroth
+    - nick_the_destroyer
+      - +3 martial
+      - patient
+      - remove wroth
+    - nick_the_fearless
+      - +2 martial
+      - brave + poet
+    - nick_the_giant
+      - +2 martial
+      - giant + hunter + robust
+    - nick_the_hammer
+      - +3 martial
+      - holy_warrior + scarred
+    - nick_the_hunter
+      - +3 martial
+      - hunter + shrewd
+    - nick_the_ill_tempered
+      - +1 martial
+      - falconer + robust
+      - wroth
+      - remove temperate
+    - nick_the_lion
+      - +4 martial
+      - fair + strategist
+    - nick_the_loyal
+      - +4 martial
+      - quick + trusting
+    - nick_the_noble
+      - +4 martial
+      - genius + poet + socializer
+    - nick_the_proud
+      - +2 martial
+      - duelist + proud
+      - remove humble
+    - nick_the_quarreller
+      - +4 martial
+      - hedonist + shrewd
+    - nick_the_strong
+      - +1 martial
+      - robust + strategist
+    - nick_the_wolf
+      - +2 martial
+      - cavalry_leader + shrewd
